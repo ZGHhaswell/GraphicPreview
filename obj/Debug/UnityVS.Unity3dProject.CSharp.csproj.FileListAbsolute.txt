@@ -1,0 +1,12 @@
+E:\Unity3dProject\obj\Debug\UnityVS.Unity3dProject.CSharp.csprojResolveAssemblyReference.cache
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\GraphicLib.dll
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Unity3dProject\obj\Debug\Assembly-CSharp.dll
+E:\Unity3dProject\obj\Debug\Assembly-CSharp.pdb
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+E:\Unity3dProject\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
